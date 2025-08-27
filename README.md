@@ -1,4 +1,9 @@
-# Parser Transformation Engine
+# INTEGRATION MANAGER CHALLENGE
+Here you will find the solution for the 3 points of the challenge, in the folder **docs** you could find the description of the challenge and the answers for point 1 and 3.
+
+For the point 2, the mini parser project, is the rest of the files.
+
+## Parser Transformation Engine (point 2 of the challenge)
 
 A Python-based transformation engine that processes files according to job definitions. This engine can currently:
 - Extract ZIP files (ZipFileParser)
@@ -19,7 +24,7 @@ The project follows a clean architecture and SOLID approach with the following c
 
 ```bash
 python3 -m venv integration_manager
-source integration_manager/bin/activate      # or integration_manager\Scripts\activate on Windows
+source integration_manager/bin/activate
 pip install -r requirements.txt
 ```
 
