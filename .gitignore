@@ -139,6 +139,8 @@ celerybeat.pid
 .envrc
 .venv
 env/
+integration_manager/
+s3_simulation/alejo-parsers/workspace1/sources/rutafuente2/*
 venv/
 ENV/
 env.bak/
