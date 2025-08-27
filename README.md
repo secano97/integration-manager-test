@@ -8,7 +8,7 @@ The system is designed to be extensible, allowing for easy addition of new parse
 
 ## Architecture
 
-The project follows a clean architecture approach with the following components:
+The project follows a clean architecture and SOLID approach with the following components:
 
 - **Factory Pattern**: Creates appropriate parser instances based on configuration
 - **BaseParser Interface**: Defines the contract that all parsers must implement
