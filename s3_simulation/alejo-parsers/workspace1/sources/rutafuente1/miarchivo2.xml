@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transactions>
+  <transaction>
+    <id>1001</id>
+    <date>2023-05-15</date>
+    <amount>150.75</amount>
+    <description>Payment for services</description>
+    <status>completed</status>
+  </transaction>
+  <transaction>
+    <id>1002</id>
+    <date>2023-05-16</date>
+    <amount>75.20</amount>
+    <description>Subscription renewal</description>
+    <status>pending</status>
+  </transaction>
+  <transaction>
+    <id>1003</id>
+    <date>2023-05-17</date>
+    <amount>200.00</amount>
+    <description>Product purchase</description>
+    <status>completed</status>
+  </transaction>
+</transactions>
